@@ -116,7 +116,7 @@ pip install -r requirements.txt
 Launch the dashboard:
 
 ```bash
-streamlit run app.py
+streamlit run app/app.py
 ```
 
 Open:
