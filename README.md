@@ -132,7 +132,7 @@ http://localhost:8501
 If you want to retrain the model:
 
 ```bash
-python train.py
+python training/train.py
 ```
 
 New model files will be generated automatically.
