@@ -117,15 +117,3 @@ New model files will be generated automatically.
 - NLP
 - TF-IDF
 
-## Future Improvements
-
-- BERT-based threat detection
-- URL analysis
-- Batch message processing
-- REST API integration
-- Database support
-- Cloud deployment
-
-## License
-
-License information will be added.
