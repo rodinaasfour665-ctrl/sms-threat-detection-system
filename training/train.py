@@ -1,9 +1,3 @@
-"""
-🐉 Cyber Dragon Security Dashboard
-Train.py — Model Training Script
-Uses SMS Spam Collection dataset (5572 messages)
-"""
-
 import pandas as pd
 import numpy as np
 import re
